@@ -1,0 +1,1 @@
+# bolthub-games-storage
